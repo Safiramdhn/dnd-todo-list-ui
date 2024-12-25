@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# DnD Todo List UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Drag and Drop Todo List application built with React.
 
 ## Available Scripts
 
